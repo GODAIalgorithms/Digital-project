@@ -1,0 +1,27 @@
+{C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/tb_dLatchvsFF.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/tb_dLatchvsFF.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_latchVsff
+-- Compiling architecture behav of tb_latchVsff
+-- Loading entity dLatch
+-- Loading entity ff
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/FlipFlop.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/FlipFlop.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ff
+-- Compiling architecture behav of ff
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/dLatch.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F/dLatch.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dLatch
+-- Compiling architecture behav of dLatch
+
+} {} {}}

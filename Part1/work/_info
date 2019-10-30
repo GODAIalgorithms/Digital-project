@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/modelsim/examples
+Egate
+Z0 w963172222
+Z1 dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1
+Z2 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/nand.vhd
+Z3 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/nand.vhd
+l0
+L1
+V^KBliL]1cmg>l`3<5NA7N1
+!s100 FIONX>RYHIOL]Q<WZ=_SI0
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1548771763
+!i10b 1
+Z6 !s108 1548771763.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/nand.vhd|
+Z8 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/nand.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Adataflow
+DEx4 work 4 gate 0 22 ^KBliL]1cmg>l`3<5NA7N1
+l14
+L10
+VYXdIXLVd[a^Xm37BdVe7i2
+!s100 CLli6UlAP7g^Jl0HmV2AZ2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etb_nand
+Z11 w1386757490
+R1
+Z12 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/tb_nand.vhd
+Z13 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/tb_nand.vhd
+l0
+L1
+VBDNCMcX4YFF9I7eTP_0RD2
+!s100 IPJ1bYTM53g5A8EgX[QED3
+R4
+32
+Z14 !s110 1548771764
+!i10b 1
+Z15 !s108 1548771764.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/tb_nand.vhd|
+Z17 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/tb_nand.vhd|
+!i113 1
+R9
+R10
+Atestnand
+Z18 DEx4 work 7 tb_nand 0 22 BDNCMcX4YFF9I7eTP_0RD2
+l17
+L3
+Z19 VMoS8U1@M3J<b332UoDSa61
+Z20 !s100 U2lUK>fXEh39DE9hE^M:^1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10

@@ -1,0 +1,27 @@
+{C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity recog1
+-- Compiling architecture arch_mealy of recog1
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity recog2
+-- Compiling architecture arch_moore of recog2
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_pattern_recog
+-- Compiling architecture behav of tb_pattern_recog
+-- Loading entity recog1
+-- Loading entity recog2
+
+} {} {}}

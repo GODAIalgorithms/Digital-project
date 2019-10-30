@@ -1,0 +1,31 @@
+{C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dLatch
+-- Compiling architecture dataflow of dLatch
+-- Loading entity SRLatch_nor
+-- Compiling architecture behav1 of dLatch
+-- Loading entity dLatch
+-- Compiling architecture behav2 of dLatch
+-- Loading entity dLatch
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_dLatch
+-- Compiling architecture behav of tb_dLatch
+-- Loading entity dLatch
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SRLatch_nor
+-- Compiling architecture dataflow of SRLatch_nor
+
+} {} {}}

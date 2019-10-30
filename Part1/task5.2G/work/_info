@@ -1,0 +1,169 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1F
+Erecog1
+Z0 w1550058443
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G
+Z4 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd
+Z5 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd
+l0
+L8
+VRB@zPB0oJ4ZCj2PDT^A@T3
+!s100 `:VVTKB64g;o<68eBC5jM2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1550238287
+!i10b 1
+Z8 !s108 1550238287.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd|
+Z10 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/mealy.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aarch_mealy
+R1
+R2
+Z13 DEx4 work 6 recog1 0 22 RB@zPB0oJ4ZCj2PDT^A@T3
+l20
+L16
+V2B1Q`F2Vkze`gjnOVSI]j1
+!s100 h]?AzP3CUAlf1^MlaAX2=1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Aarch_moore
+w1550052468
+R1
+R2
+R13
+Z14 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd
+Z15 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd
+l17
+L13
+V`FlM8DE0[geRnk1of4;a;0
+!s100 lI[Z1I2n3z:b<9XYM;`Cm2
+R6
+32
+!s110 1550052476
+!i10b 1
+!s108 1550052476.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd|
+Z17 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/moore.vhd|
+!i113 1
+R11
+R12
+Erecog2
+Z18 w1550058258
+R1
+R2
+R3
+R14
+R15
+l0
+L5
+VaJjLcQI:z<Og[G<nPRaSd1
+!s100 7AD0>`VHcLY[BUiK0z0d71
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Aarch_moore
+R1
+R2
+Z19 DEx4 work 6 recog2 0 22 aJjLcQI:z<Og[G<nPRaSd1
+l17
+L13
+Z20 VP<aKjHK1_1Ki;5]nN9aRP1
+Z21 !s100 dFUPk8;GejPcQH^?862Dm1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Etb_pattern_recog
+Z22 w1550052473
+R1
+R2
+R3
+Z23 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd
+Z24 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd
+l0
+L4
+VC_XW6WHF<AK=5mb]kc1Zo0
+!s100 h<e6lggl`7nOGJizC2BcP0
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd|
+Z26 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.2G/tb_pattern_recog.vhd|
+!i113 1
+R11
+R12
+Abehav
+R19
+R13
+R1
+R2
+DEx4 work 16 tb_pattern_recog 0 22 C_XW6WHF<AK=5mb]kc1Zo0
+l21
+L6
+VHkLP6HQZ>i@nMRXJhY4eS0
+!s100 WP8A_bJJ`MLHhFmZV9DfK2
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Etb_recog2
+w1387895954
+R3
+R23
+R24
+l0
+L1
+Vc@MAWQR4ecEzSL9iAj]8G3
+!s100 OFo`:cChX@T8=@[ZAW6Dj3
+R6
+32
+!s110 1550052018
+!i10b 1
+!s108 1550052018.000000
+R25
+R26
+!i113 1
+R11
+R12

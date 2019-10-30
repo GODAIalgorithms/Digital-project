@@ -1,0 +1,165 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task3.3B
+Edlatch
+Z0 w1549283748
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D
+Z4 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd
+Z5 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd
+l0
+L4
+VGAAVWOoU9VzN?gE6Rc4P52
+!s100 `fLmfLPHjkd3^f=Kc]dWc3
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1549449598
+!i10b 1
+Z8 !s108 1549449598.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd|
+Z10 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/dLatch.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehav2
+R1
+R2
+Z13 DEx4 work 6 dlatch 0 22 GAAVWOoU9VzN?gE6Rc4P52
+l56
+L55
+Vc7FB;>>?9JgGnOTDVMcU`1
+!s100 AQl@N@THRSP`VPnPij=Pd2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehav1
+R1
+R2
+R13
+l40
+L39
+VejP=bIJl4Uc>]8nmI?3o@2
+!s100 d[U2GV31aOd7SKK[0Wl6<2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adataflow
+Z14 DEx4 work 11 srlatch_nor 0 22 i<^P<2fA7PmH5AWLO2>Dg1
+R1
+R2
+R13
+l26
+L16
+VROH=4kE3?IXbS0j_;5c720
+!s100 3zNd6jU_lkOoJaS_I4Aa<2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esrlatch_nor
+Z15 w1549134468
+R1
+R2
+R3
+Z16 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd
+Z17 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd
+l0
+L4
+Vi<^P<2fA7PmH5AWLO2>Dg1
+!s100 d5Zal^4ShWOOfc27TMBZY2
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd|
+Z19 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/srLatch_nor.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+R14
+l16
+L13
+VTZ3?9IUlHmkcUQTM>A?Xc3
+!s100 RbMXzjB;?<:;TWZ9F>:>H2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
+Etb_dlatch
+Z20 w1548268995
+R1
+R2
+R3
+Z21 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd
+Z22 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd
+l0
+L4
+VUKN[7>m9`J2`WBG?AIcSW2
+!s100 VWK5TG0ToJkYVODWnFKaD0
+R6
+32
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd|
+Z24 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task5.1D/tb_dLatch.vhd|
+!i113 1
+R11
+R12
+Abehav
+R13
+R1
+R2
+Z25 DEx4 work 9 tb_dlatch 0 22 UKN[7>m9`J2`WBG?AIcSW2
+l23
+L6
+Z26 VS[cHn08bFeM>ZNe8D=37N0
+Z27 !s100 EDXng4VIVO1VVYBokohhB3
+R6
+32
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12

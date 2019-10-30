@@ -1,0 +1,145 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Erecog1
+Z0 w1550053695
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I
+Z4 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/mealy.vhd
+Z5 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/mealy.vhd
+l0
+L8
+VRB@zPB0oJ4ZCj2PDT^A@T3
+!s100 `:VVTKB64g;o<68eBC5jM2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1550062658
+!i10b 1
+Z8 !s108 1550062658.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/mealy.vhd|
+Z10 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/mealy.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aarch_mealy
+R1
+R2
+DEx4 work 6 recog1 0 22 RB@zPB0oJ4ZCj2PDT^A@T3
+l20
+L16
+VAGZ3;I7lG67hk8KJB1bje2
+!s100 hU0c^aC6La>MaUH1HaOWL0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Erecog2
+Z13 w1550227081
+R1
+R2
+R3
+R4
+R5
+l0
+L8
+VTaVWFi?eecliL_gA3mFC^3
+!s100 8k@Wk]bQ:N1Wk8N5GTIae2
+R6
+32
+Z14 !s110 1550227088
+!i10b 1
+Z15 !s108 1550227088.000000
+R9
+R10
+!i113 1
+R11
+R12
+Aarch_my
+R1
+R2
+Z16 DEx4 work 6 recog2 0 22 TaVWFi?eecliL_gA3mFC^3
+l29
+L18
+VZRc>_Rh^TM=T?T<`?Q05X3
+!s100 SBEQ]z@TmLJ?ElOMdABNR2
+R6
+32
+R14
+!i10b 1
+R15
+R9
+R10
+!i113 1
+R11
+R12
+Aarch_mealy
+R1
+R2
+R16
+l29
+L18
+VjX2iVI8GGo>M?d0Ea<Z5Z1
+!s100 Yl:J?h<Q:Lg7`RBB1oz8O1
+R6
+32
+!s110 1550078747
+!i10b 1
+!s108 1550078747.000000
+R9
+R10
+!i113 1
+R11
+R12
+w1550078680
+Etb_recog2
+Z17 w1550078836
+R3
+Z18 8C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/tb_pattern_recog.vhd
+Z19 FC:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/tb_pattern_recog.vhd
+l0
+L1
+Vc@MAWQR4ecEzSL9iAj]8G3
+!s100 OFo`:cChX@T8=@[ZAW6Dj3
+R6
+32
+R14
+!i10b 1
+R15
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/tb_pattern_recog.vhd|
+Z21 !s107 C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task6.3I/tb_pattern_recog.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+Z22 DEx4 work 6 recog2 0 22 WO51X0o;ji1Y1n^BK8zCG3
+DEx4 work 9 tb_recog2 0 22 c@MAWQR4ecEzSL9iAj]8G3
+l19
+L3
+V5RmC5zQihzO5bzWmM=MGg1
+!s100 U:J3Y0RO5R=@KZ?:kU@3i3
+R6
+32
+R14
+!i10b 1
+R15
+R20
+R21
+!i113 1
+R11
+R12

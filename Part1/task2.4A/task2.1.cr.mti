@@ -1,0 +1,13 @@
+{C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task2.4A/nand.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task2.4A/nand.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity gate
+-- Compiling architecture dataflow of gate
+
+} {} {}} {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task2.4A/tb_nand.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Jack Zhao/Desktop/digital system project/Assignment1/task2.4A/tb_nand.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity tb_nand
+-- Compiling architecture testNand of tb_nand
+
+} {} {}}
